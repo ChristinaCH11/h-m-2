@@ -6,23 +6,12 @@ h1{
     width: 1140px;
     margin: 0 auto;
 }
-header {
-    display: inline-flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-  }
-}
 .logo{
 	display: inline-block;
 	vertical-align: middle;
 	width: 200px;
 	height: 150px;
     border-radius: 15%/50%;
-}
-}
-.title {
-  padding-left: 15px;
 }
 .list{
 	display: flex;
@@ -82,7 +71,7 @@ li:hover{
 	text-align: center;
 	line-height: 50px;
 }
-.test-drive{
-	color:#00008B;
+.registration{
+	color:#b8e4b8;
 	font-size: 18px;
 }
